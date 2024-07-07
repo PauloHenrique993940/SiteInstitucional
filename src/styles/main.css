@@ -1,0 +1,8 @@
+/* Configuração main */
+
+main{
+    display: flex;
+    flex-direction: column;
+    
+}
+
